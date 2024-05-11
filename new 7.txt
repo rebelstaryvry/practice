@@ -1,0 +1,15 @@
+for git cloneing command is : git clone https://github.com/rebelstaryvry/practice.git
+
+Git Fetch: git fetch
+
+Git Branch: git branch
+
+Git Pull: git pull
+
+Git Push: git push
+
+Git Add for All files: git add .
+
+Git Add for specific files: git add filename
+
+Git Restore : git restore
